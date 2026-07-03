@@ -1,6 +1,6 @@
 # Blog List with Modal Details
 
-Live: https://buhowski.github.io/nextjs-blog-modal
+Live: https://buhowski.github.io/post-list-modal
 
 ## Prerequisites
 
