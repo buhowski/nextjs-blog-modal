@@ -1,6 +1,6 @@
 # Blog List with Modal Details
 
-Live: https://buhowski.github.io/blog-posts-modal
+- Live: [buhowski.github.io/blog-posts-modal](https://buhowski.github.io/blog-posts-modal)
 
 ## Prerequisites
 
